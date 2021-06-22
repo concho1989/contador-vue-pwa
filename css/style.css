@@ -1,0 +1,27 @@
+hltml, body{
+    background-color: #35495e;
+    color: #eee;
+}
+.app{
+    display: block;
+    text-align: center;
+}
+
+.count{
+    size: 5rem;
+    font-weight: bold;
+}
+
+button{
+    background-color: #e7ff0c;
+    border: none;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 0 0.5rem;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #b5c905;
+}
